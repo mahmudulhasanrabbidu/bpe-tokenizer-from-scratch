@@ -1,5 +1,5 @@
 # BPE Tokenizer From Scratch
-A Byte Pair Encoding (BPE) tokenizer implementation, featuring GPT-4 compatibility.
+A Byte Pair Encoding (BPE) tokenizer implementation from scratch, featuring GPT-4 compatibility.
 
 ## Acknowledgements
 This code is heavily inspired by Andrej Karpathy's [minbpe]. I have implemented it with slight modifications and extensive inline documentation designed for 
